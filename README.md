@@ -20,10 +20,10 @@ This repository contains a collection of R scripts focused on various statistica
 
     This script demonstrates how to perform:
 
-  - ANOVA (Analysis of Variance): Used to test the differences between two or more groups.
-  - Wilcoxon Test: A non-parametric test to compare two paired samples.
-  - Correlation: To evaluate the relationship between two variables.
-  - Regression: Both linear and multiple regression to predict outcomes based on predictor variables.
+      - ANOVA (Analysis of Variance): Used to test the differences between two or more groups.
+      - Wilcoxon Test: A non-parametric test to compare two paired samples.
+      - Correlation: To evaluate the relationship between two variables.
+      - Regression: Both linear and multiple regression to predict outcomes based on predictor variables.
 
 2. ANOVA One-Way
 
